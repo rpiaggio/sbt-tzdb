@@ -1,5 +1,21 @@
 # Changes
 
+## 0.3.2
+
+* Bugfix on the tzdb parser
+
+## 0.3.1
+
+* Dependency updates
+
+## 0.3.0
+
+* Update tzdb parser to support the latest tzdb changes on 2018f
+
+## 0.2.0
+
+* Update tzdb parser to support the latest tzdb changes
+
 ## 0.1.2
 
 * Improved resilience on generating code
